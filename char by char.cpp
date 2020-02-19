@@ -31,4 +31,6 @@ while(!myfile.eof() ){
 cout <<endl ;
 for (int j=0;j<i;j++)
 cout <<a[j];
+
+cout <<"\ndone !"
 }
