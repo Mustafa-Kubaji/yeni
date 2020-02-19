@@ -7,7 +7,9 @@ using namespace std;
 // IF FIND '-' IT WILL PUT ' ' IN ITS SAME POSITION
 
 int main () {
-
+	
+	int a = 2 ;
+	
 ifstream myfile("gagm.txt");
 char a[80];
 static int i =0 ; 
